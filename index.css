@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+ font-family: 'myfont';
+ src: url('../font/myfont.TTF');
+}
+
+.background{
+	height: 800px;
+	width: 1280px;
+	margin: 0px auto;
+	background-image: url(../images/background.jpg);
+}
+.top{
+	height:100px;
+	width:100%;
+	margin:0px auto;
+	}
+.middle1{
+	height:100px;
+	width:100%;
+	}
+.middle{
+	height:470px;
+	width:100%;
+	}
+.tips{
+	height: 200px;
+	width: 400px;
+	text-align: center;
+	font-size: 108px;
+	margin-left: 440px;
+	color: #000000;
+	font-family:myfont;
+	}
+.bottom{
+	height:100px;
+	width:100%;
+	text-align:center;
+	font-family:Microsoft YaHei;
+	font-size:24px;
+	margin-bottom:30px;
+	}
+.song{
+	height:50px;
+	width:250px;
+	margin-top:50px;
+	text-align:center;
+	float:right;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	}
+	
+.tang{
+	height:50px;
+	width:200px;
+	margin-top:50px;
+	text-align:center;
+	float:right;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	}
+	
+.home{
+	height:50px;
+	width:100px;
+	margin-top:50px;
+	text-align:center;
+	float:right;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	}
+.protry{
+	line-height: 28px;
+	list-style-type: none;
+	background: none;
+	}

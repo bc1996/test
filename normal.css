@@ -1,0 +1,168 @@
+
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+ font-family: 'myfont';
+ src: url('../font/myfont.TTF');
+}
+.all{
+	height:1300px;
+	width:1280px;
+	background-color: #d4f8e8;
+	}
+
+.top{
+	height: 333px;
+	width: 1280px;
+	margin: 0px auto;
+	}
+.home{
+	height:50px;
+	width:100px;
+	margin-top:25px;
+	margin-left:25px;
+	float:left;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	}
+.picture-Waterbag{
+	height: 333px;
+	width: 500px;
+	float: left;
+	margin-left:300px;
+	background-image: url(../images/Waterbag.png);
+	}
+.picture-Autumn{
+	height: 333px;
+	width: 500px;
+	float: left;
+	margin-left:300px;
+	background-image: url(../images/Autumn.png);
+	}
+.picture-Frontier{
+	height: 333px;
+	width: 500px;
+	float: left;
+	margin-left:300px;
+	background-image: url(../images/Frontier.png);
+	}
+.picture-Moon{
+	height: 333px;
+	width: 500px;
+	float: left;
+	margin-left:300px;
+	background-image: url(../images/Moon.png);
+	}
+	
+.picture-Night{
+	height: 333px;
+	width: 500px;
+	float: left;
+	margin-left:300px;
+	background-image: url(../images/Night.png);
+	}
+.picture-Day{
+	height: 333px;
+	width: 500px;
+	float: left;
+	margin-left:300px;
+	background-image: url(../images/Day.png);
+	}
+.bottom{
+	height:967px;
+	width:1280px;
+	margin:0px auto;
+	}
+.left{
+	height:967px;
+	width:310x;
+	float:left;
+	margin-left:10px;
+	font-family:myfont;
+	}
+.right1{
+	height:967px;
+	width:320px;
+	float:right;
+	font-family:microsoftyahei;
+	font-size:20px;
+	}
+.right2{
+	height:967px;
+	width:320px;
+	float:right;
+	font-family:microsoftyahei;
+	font-size:20px;
+	}
+.right3{
+	height:967px;
+	width:320px;
+	float:right;
+	font-family:microsoftyahei;
+	font-size:20px;
+	}
+.h1{
+	font-family:myfont;
+	font-size:30px;
+}
+.h2{
+	font-family:myfont;
+	font-size:24px;
+}
+.h3{
+	font-family:myfont;
+	font-size:18px;
+}
+.h4{
+	font-family:microsoftyahei;
+	font-size:30px;
+}
+.h5{
+	font-family:microsoftyahei;
+	font-size:24px;
+}
+.h6{
+	font-family:microsoftyahei;
+	font-size:18px;
+}
+
+.all-day{
+	height: 1000px;
+	width: 1280px;
+	background-color: #FFFFFF;
+	}
+
+.picture-Day{
+	height: 333px;
+	width: 500px;
+	float: left;
+	margin-left:300px;
+	background-image: url(../images/Day.png);
+	}
+.bottom-day{
+	height:667px;
+	width:1280px;
+	margin:0px auto;
+	}
+.left-day{
+	height:667px;
+	width:420x;
+	float:left;
+	margin-left:20px;
+	font-family:myfont;
+	}
+.right1-day{
+	height:667px;
+	width:420px;
+	float:right;
+	font-family:microsoftyahei;
+	font-size:20px;
+	}
+.right2-day{
+	height:667px;
+	width:420px;
+	float:right;
+	font-family:microsoftyahei;
+	font-size:20px;
+	}
